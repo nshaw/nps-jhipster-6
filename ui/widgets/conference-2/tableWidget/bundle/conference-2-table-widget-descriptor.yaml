@@ -1,0 +1,6 @@
+code: conference-2-table-widget
+titles:
+  en: Conference 2 Table Widget
+  it: Conference 2 Table Widget
+group: free
+customUiPath: conference-2-table-widget.ftl
